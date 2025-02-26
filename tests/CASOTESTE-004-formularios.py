@@ -1,4 +1,3 @@
-# DOCUMENTO DE CASO DE TESTE: CASOTESTE-005-formularios.pdf
 # Testes de caixinhas de seleção 
 
 import unittest

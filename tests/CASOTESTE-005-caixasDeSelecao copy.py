@@ -1,4 +1,3 @@
-# DOCUMENTO DE CASO DE TESTE: CASOTESTE-004-caixaDESelecao.pdf
 # Testes de caixinhas de seleção 
 
 import unittest

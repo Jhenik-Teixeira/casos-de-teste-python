@@ -1,4 +1,3 @@
-# DOCUMENTO DE CASO DE TESTE: CASOTESTE-003.pdf
 # Testes de Alertas e Pop-ups
 
 import unittest

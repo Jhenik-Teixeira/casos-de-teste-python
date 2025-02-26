@@ -1,4 +1,3 @@
-# DOCUMENTO DE CASO DE TESTE: CASOTESTE-003.pdf
 # Teste de Controle A/B
 
 import unittest
